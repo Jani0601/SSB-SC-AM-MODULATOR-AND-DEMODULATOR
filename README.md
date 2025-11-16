@@ -134,11 +134,14 @@ xlabel("time"); ylabel("amplitude");
 ```
 
 ## TABULATION
+<img width="1171" height="1280" alt="image" src="https://github.com/user-attachments/assets/3a6462ea-3f56-4cba-a4d1-b55dccfbe455" />
+
 
 ## OUTPUT
 <img width="610" height="460" alt="image" src="https://github.com/user-attachments/assets/9ac893f2-d843-4a73-99d0-8acdb4f93141" />
 
 
 ## RESULT
+Thus, the SSB-SC-AM Modulation and Demodulation is experimentally done and the output is verified.
 
 
