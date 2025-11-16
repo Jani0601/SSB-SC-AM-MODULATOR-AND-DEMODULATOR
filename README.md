@@ -133,8 +133,10 @@ title("Demodulated Message (LSB)");
 xlabel("time"); ylabel("amplitude");
 ```
 
+
 ## TABULATION
 <img width="1171" height="1280" alt="image" src="https://github.com/user-attachments/assets/3a6462ea-3f56-4cba-a4d1-b55dccfbe455" />
+
 
 
 ## OUTPUT
